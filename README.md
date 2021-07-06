@@ -1,4 +1,4 @@
 # Lomoda
  internet magosin men's and women's clothing
- 
- aftor"https://glo-academy.org/pl/159403874";
+ author "Никита Лавлинский"
+ link"https://glo-academy.org/pl/159403874";
